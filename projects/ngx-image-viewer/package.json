@@ -1,0 +1,14 @@
+{
+  "name": "@jmcrommen/ngx-image-viewer",
+  "version": "1.0.14",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmcrommen/ngx-image-viewer.git"
+  },
+  "homepage": "https://github.com/jmcrommen/ngx-image-viewer"
+}
